@@ -12,7 +12,7 @@
 
 * `composer install`
 
-* cp .env.example .env
+* `cp .env.example .env`
 
 * update the .env file with your db credentials
 
@@ -20,8 +20,8 @@
 
 * `php artisan migrate`
 
-## Moch. Agita Fauzi (2015150065)
-## Muhammad Yusuf (2014150010)
+### Moch. Agita Fauzi (2015150065)
+### Muhammad Yusuf (2014150010)
 
 
 
