@@ -1,9 +1,9 @@
 # A RESTful Invoice App built with Laravel
 
 
-![alt tag](https://github.com//Invoice/raw/master/img-1.png)
+![alt tag](https://github.com/fastikom/uas-reg-fauzi-unsiq/raw/master/img-1.png)
 
-![alt tag](https://github.com//Invoice/raw/master/img-2.png)
+![alt tag](https://github.com/fastikom/uas-reg-fauzi-unsiq/raw/master/img-2.png)
 
 ### Installation
 * `git clone https://github.com//Invoice.git`
@@ -20,8 +20,8 @@
 
 * `php artisan migrate`
 
-# Moch. Agita Fauzi (2015150065)
-# Muhammad Yusuf (2014150010)
+## Moch. Agita Fauzi (2015150065)
+## Muhammad Yusuf (2014150010)
 
 
 
